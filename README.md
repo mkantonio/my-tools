@@ -13,7 +13,16 @@ Grid cheatsheet
 ```
 https://grid.malven.co
 ```
-Grid cheatsheet
+Flexbox cheatsheet
 ```
 https://flexbox.malven.co
 ```
+Flexbox cheatsheet
+```
+https://yoksel.github.io/flex-cheatsheet/
+```
+Flexbox cheatsheet
+```
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+```
+
